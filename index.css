@@ -1,7 +1,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: white;
+   background-color: #f0f0f0;
 }
 
 .card {
@@ -9,6 +9,7 @@ body {
     padding: 20px;
     margin: 50px;
     border-radius: 10px;
+    box-shadow: 0 4px 8px gray;
 }
 
 h1 {
